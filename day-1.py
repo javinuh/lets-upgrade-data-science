@@ -1,4 +1,7 @@
+#Q-1 ANS: RAINBOW
+#Q-2
 print("LETS UPGRADE")
+
 #Q-3 and 4
 cost_price=int(input())
 selling_price=int(input())
@@ -8,6 +11,7 @@ elif cost_price>selling_price:
     print("Loss")
 else:
     print("Neither")
+    
 #Q-5
 euro = int(input())
 rupees = euro*80
